@@ -11,5 +11,6 @@ hello world hello git!
 hello world hello git!
 hello world hello git!
 hello world hello git!
-helllo git version3!
+helllo git version3
 hello modify master!
+hello git hot-fix!
